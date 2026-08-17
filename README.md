@@ -2,20 +2,20 @@
 ## 📊 Description
 
 Developed an interactive Sales Analysis Dashboard in Power BI to analyze sales performance across products, regions, orders, and time. The dashboard tracks key KPIs such as total revenue, total orders, total quantity, average order value, and cancellation rate, enabling users to identify sales trends and understand overall business performance.
-
+<br>
 The project also involved data cleaning and transformation in Power Query and organizing the data using a star schema with fact and dimension tables for efficient analysis.
-
+<br>
 🛠️ Tools & Technologies
-Power BI — Dashboard development and data visualization
-Power Query — Data cleaning, transformation, and preparation
-DAX — Calculated measures and KPI analysis
-Data Modeling — Star schema with fact and dimension tables
-Microsoft Excel / CSV — Source data
+Power BI — Dashboard development and data visualization <br>
+Power Query — Data cleaning, transformation, and preparation <br>
+DAX — Calculated measures and KPI analysis<br>
+Data Modeling — Star schema with fact and dimension tables <br>
+Microsoft Excel / CSV — Source data <br>
 ## 💡 Business Insights
-Total revenue reached ₹13.6M from 1,505 orders and 11,961 units sold.
-Electronics generated the highest revenue, significantly outperforming Furniture and Office Supplies.
-North and West generated the highest regional revenue, while South recorded the lowest.
-East had the highest number of orders, despite not generating the highest revenue, suggesting differences in average order value across regions.
-Monthly revenue showed noticeable fluctuations, indicating changing sales performance throughout the year.
-The overall cancellation rate was 10.7%, highlighting an area that could be investigated to reduce lost sales.
-The average order value was approximately ₹9,065, providing a benchmark for evaluating customer order performance.
+Total revenue reached ₹13.6M from 1,505 orders and 11,961 units sold. <br>
+Electronics generated the highest revenue, significantly outperforming Furniture and Office Supplies.<br>
+North and West generated the highest regional revenue, while South recorded the lowest. <br>
+East had the highest number of orders, despite not generating the highest revenue, suggesting differences in average order value across regions.<br>
+Monthly revenue showed noticeable fluctuations, indicating changing sales performance throughout the year.<br>
+The overall cancellation rate was 10.7%, highlighting an area that could be investigated to reduce lost sales.<br?
+The average order value was approximately ₹9,065, providing a benchmark for evaluating customer order performance.<br>
